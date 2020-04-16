@@ -5,4 +5,4 @@ As we are using Vimeo for publishing our videos it is important to follow the in
 
 The subtitles should be saved in the WebVtt-format and in UTF-8 encoding. In Visual Studio Code an extension is existing for the .vtt file type. 
 
-You can test the subtitles the related video with the VLC Media Player. 
+You can test the subtitles of the related video with the VLC Media Player. 
