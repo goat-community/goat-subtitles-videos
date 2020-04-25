@@ -1,0 +1,67 @@
+WEBVTT
+
+00:00.000 --> 00:04.000 vertical:rl
+<v Elias> We will show you how to use GOAT for location planning.
+
+00:05.000 --> 00:10.000
+<v Elias> In this example we are interested in bikesharing stations, you can do the same for other POIs.
+
+00:11.000 --> 00:16.000
+<v Elias> The task is to find new locations for the bikesharing scheme in Munich.
+
+00:17.000 --> 00:23.000
+<v Elias> First we need to identify areas with low accessibility.
+
+00:24.000 --> 00:30.000
+<v Elias> Large parts of the outer districts of Munich have poor accessibility to bikesharing stations.
+
+00:31.000 --> 00:36.000
+<v Elias> We are seeing that the population is distributed among all parts of the city.
+
+00:37.000 --> 00:41.000
+<v Elias> At the same time areas with high population have not always access to bikesharing stations.
+
+00:42.000 --> 00:47.000
+<v Elias> With the Walkability Population Index we can identify area were population
+
+00:48.000 --> 00:52.000
+<v Elias> and walking accessibility to bikesharing stations is especially unbalanced.
+
+00:53.000 --> 00:58.000
+<v Elias> In this example we will show the effects of new bikesharing stations in the district of Neuperlach.
+
+00:59.000 --> 01:05.000
+<v Elias> You can draw, modify and delete points of interest.
+
+01:06.000 --> 01:11.000
+<v Elias> Let's place a new station close to the Metro station of Quiddestraße.
+
+01:12.000 --> 01:17.000
+<v Elias> You can give your station a name.
+
+01:18.000 --> 01:24.000
+<v Elias> Within some seconds the station will be uploaded
+
+01:18.000 --> 01:24.000
+<v Elias> and the walkability heatmap will be refreshed.
+
+01:25.000 --> 01:29.000
+<v Elias> As you can see walkability has significantly improved!
+
+01:30.000 --> 01:35.000
+<v Elias> Let's find another suitable location.
+
+01:36.000 --> 01:41.000
+<v Elias> There is an underserved district center close by.
+
+01:42.000 --> 01:47.000
+<v Elias> Let's place a new station at Karl-Marx-Zentrum.
+
+01:50.000 --> 01:53.000
+<v Elias> As we can see the effects on walkability are significant.
+
+01:54.000 --> 01:58.000
+<v Elias> Now let's check how the balance of walkability and population has changed.
+
+01:58.000 --> 02:02.000
+<v Elias> Walkability and population are much more balanced now in the area.
