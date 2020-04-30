@@ -1,0 +1,38 @@
+WEBVTT - GOAT calculation of walking isochrones
+
+
+00:00.000 --> 00:03.000 vertical:rl
+In diesem Video wird die Isochronenberechnung aufgezeigt.
+
+00:04.000 --> 00:10.000
+Die Einstellungen der Isochronen können angepasst werden, indem die Gehschwindigkeit und Gehzeit geändert werden.
+
+00:11.000 --> 00:15.000
+Um eine Isochrone zu berechnen, muss erstmal zu einem bestimmten Bereich gezoomt werden.
+
+00:17.000 --> 00:23.000
+Dieses Fenster zeigt die Anzahl der Bewohner, die in der gewählten Gehzeit erreicht werden können.
+
+00:25.000 --> 00:30.000
+Durch Klicken auf die weitere layer und Auswahl des Standard Straßennetzwerk wird das Netz sichtbar.
+
+00:32.000 --> 00:36.000
+Um das Netzwerk sichtbarer zu machen, kann die Karte OSM light gewählt werden.
+
+00:37.000 --> 00:45.000
+Die Farbe des Netzwerks zeigt die Gehzeit, die benötigt wird, um einen bestimmten Link zu erreichen.
+
+00:46.000 --> 00:53.000
+Die Ausblendung der Isochronen funktioniert für eine einzelne Isochrone oder für alle berechnte Isochnenen. 
+
+00:55.000 --> 00:59.000
+GOAT bietet die Möglichkeit, die berechneten Isochronen als GeoJson oder Shapefile herunterzuladen.
+
+00:59.000 --> 01:03.000
+Durch klicken an Filter Thematische Daten kann überprüft werden, welche Einrichtungen in der gewählten Reisezeit erreichbar sind.
+
+01:03.000 --> 01:08.000
+In diesem Beispiel werden die Einrichtungen Kindergarten, Grundschule, weiterführende Schule und Bibliothek ausgewählt.
+
+01:09.000 --> 01:18.000
+Dieses Fenster zeigt die Anzahl der ausgewählten Einrichtungen, die in der gewählten Reisezeit erreicht werden können.
